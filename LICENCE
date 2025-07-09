@@ -1,0 +1,13 @@
+Dropit.js License
+Copyright (c) 2025 Syntex Corporation
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Dropit.js library to use it in their personal or commercial projects, subject to the following conditions:
+
+1. The Librarie's JavaScript code may not be copied, modified, or redistributed in any form, including creating derivative works, without prior written permission from Syntex.
+2. Users may customize the visual appearance of the Library through external CSS files, provided such customizations are limited to styling (e.g., colors, fonts, layout) and do not alter the Library’s functionality or internal logic.
+3. The above copyright notice and this permission notice must be included in all projects that use the Library.
+4. Redistribution of the Library, whether in original or modified form, is prohibited without prior written permission from Syntex.
+
+The Library is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Library or the use or other dealings in the Library.
