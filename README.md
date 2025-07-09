@@ -218,5 +218,3 @@ Example CSS customization:
 ## License
 
 Dropit.js is licensed under a proprietary license. You may use the library in your projects and customize its appearance via external CSS files. Copying, modifying, or redistributing the JavaScript code, or creating derivative works, is strictly prohibited without prior written permission. See the [LICENSE](LICENSE) file for details.
-
-For commercial licensing or inquiries about redistribution, contact [Your Contact Info].
