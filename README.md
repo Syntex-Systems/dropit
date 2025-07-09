@@ -19,9 +19,9 @@ Dropit.js is a lightweight and customizable jQuery plugin that transforms standa
 Include the required CSS and JavaScript files in your HTML:
 
 ```html
-<link rel="stylesheet" href="https://syntex-systems.github.io/codebrae/cdn/dropit/dropit.css">
+<link rel="stylesheet" href="https://syntex-systems.github.io/dropit/dropit.css">
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://syntex-systems.github.io/codebrae/cdn/dropit/dropit.js"></script>
+<script src="https://syntex-systems.github.io/dropit/dropit.js"></script>
 ```
 
 ## Usage
@@ -160,7 +160,7 @@ Example CSS customization:
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="https://syntex-systems.github.io/codebrae/cdn/dropit/dropit.css">
+    <link rel="stylesheet" href="https://syntex-systems.github.io/dropit/dropit.css">
     <style>
         /* Custom CSS */
         .dropit-container.dropit-dark {
@@ -181,7 +181,7 @@ Example CSS customization:
     </select>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://syntex-systems.github.io/codebrae/cdn/dropit/dropit.js"></script>
+    <script src="https://syntex-systems.github.io/dropit/dropit.js"></script>
     <script>
         $(document).ready(function() {
             $('#myDropdown').initDropit({
